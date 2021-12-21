@@ -1,24 +1,19 @@
 {
-  "name": "devopsfyp",
+  "name": "devops",
   "version": "1.0.0",
   "description": "",
   "main": "index.php",
   "scripts": {
-    "start": "serve",
-    "build": "echo This is a static template, there is no bundler or bundling involved!"
+    "start": "parcel index.php --open",
+    "build": "parcel build index.php"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LavizaFalakNaz/DevOps"
+  "dependencies": {
+    "console-browserify": "1.2.0",
+    "php": "0.0.1"
   },
-  "keywords": [],
-  "author": "Laviza Falak Naz",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/LavizaFalakNaz/DevOps"
-  },
-  "homepage": "https://github.com/LavizaFalakNaz/DevOps#readme",
   "devDependencies": {
-    "serve": "^11.2.0"
-  }
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
 }

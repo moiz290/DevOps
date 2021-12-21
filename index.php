@@ -1,6 +1,9 @@
-<?php includes "config/config.php"; ?>
-
+<?php 
+  session_start();
+  echo "Hello";
+  include "./index.html";
+  echo "something"
+?>
 <html>
-  <p>hello gg
-</p>
+wee woo
 </html>
