@@ -23,9 +23,9 @@
 
 # Database link:
 ## Phpmpadmin 
-https://www.phpmyadmin.co/index.php
+( https://www.phpmyadmin.co/index.php )
 ## credential
-1. Server: sql6.freemysqlhosting.net
+1. Server: ( sql6.freemysqlhosting.net )
 2. Name: sql6460292
 3. Username: sql6460292
 4. Password: y2pVx9FZ2c
