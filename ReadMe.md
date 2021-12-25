@@ -25,11 +25,11 @@
 ## Phpmpadmin 
 https://www.phpmyadmin.co/index.php
 ## credential
-Server: sql6.freemysqlhosting.net
-Name: sql6460292
-Username: sql6460292
-Password: y2pVx9FZ2c
-Port number: 3306
+1. Server: sql6.freemysqlhosting.net
+2. Name: sql6460292
+3. Username: sql6460292
+4. Password: y2pVx9FZ2c
+5. Port number: 3306
 
 # FRONTEND TO DO LIST: 
 * login and sign in up function in extra to shift to clicking on the admin name
