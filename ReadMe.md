@@ -34,4 +34,9 @@ FRONTEND TO DO LIST:
 -login and sign in up function in extra to shift to clicking on the admin name
 -Open chat room window on clicking on the chat
 -Kanban boards don’t generate to do list, create action, doesn’t click on labels 
--
+
+# CODE NOTES 
+must include this line in every php page for database connection. the connection works successfully
+,,,
+include "config/config.php";
+,,,
