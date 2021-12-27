@@ -15,6 +15,8 @@
 * WOO HOOO!
 > to commit to main repo, choose SOURCE CONTROL from VS code and commit with  message. then go to github desktop and commit to main repo hosted online.
  
+## Heroku Deployed App:
+( https://devops-fyp.herokuapp.com/ )
 ## Github Link:
 ( https://github.com/LavizaFalakNaz/DevOps )
 
