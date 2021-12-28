@@ -17,6 +17,12 @@
  
 ## Heroku Deployed App:
 ( https://devops-fyp.herokuapp.com/ )
+
+## Infinity free
+Cpanel: ( https://app.infinityfree.net/accounts/epiz_30686719 )
+SQL server: ( https://cpanel.epizy.com/panel/indexpl.php?option=mysql )
+PHP my admin: ( http://185.27.134.10/db_structure.php?db=epiz_30686719_devops )
+
 ## Github Link:
 ( https://github.com/LavizaFalakNaz/DevOps )
 
