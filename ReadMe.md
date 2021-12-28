@@ -31,12 +31,12 @@ PHP my admin: ( http://185.27.134.10/db_structure.php?db=epiz_30686719_devops ) 
 
 # Database link:
 ## Phpmpadmin 
-( https://www.phpmyadmin.co/index.php )
+( http://185.27.134.10/db_structure.php?db=epiz_30686719_devops )
 ## credential
-1. Server: ( sql6.freemysqlhosting.net )
-2. Name: sql6460292
-3. Username: sql6460292
-4. Password: y2pVx9FZ2c
+1. Server: ( sql113.epizy.com )
+2. Name: epiz_30686719_devops
+3. Username: epiz_30686719
+4. Password: 2aAehRPc77r21E
 5. Port number: 3306
 
 # FRONTEND TO DO LIST: 
