@@ -1,5 +1,5 @@
 <?php
-    include "config/config.php";
+    echo "how is it going";
 ?>
     
 <?php
