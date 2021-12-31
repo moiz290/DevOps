@@ -14,6 +14,7 @@
 * Choose ‘Devops’ as system and  check if the file works
 * WOO HOOO!
 > to commit to main repo, choose SOURCE CONTROL from VS code and commit with  message. then go to github desktop and commit to main repo hosted online.
+* To manage data on ClearDB, install mySQL workbench and login to the database with the same credentials. 
  
 ## Heroku Deployed App:
 ( https://devops-fyp.herokuapp.com/ )
