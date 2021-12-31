@@ -1,8 +1,8 @@
 <?php
-    $servername = "sql113.epizy.com";
-    $username = "epiz_30686719";
-    $password = "2aAehRPc77r21E";
-    $database = "epiz_30686719_devops";
+    $servername = "db4free.net";
+    $username = "devops_4108845";
+    $password = "hello12eF";
+    $database = "devops_4108845";
     $port = 3306;
 
     // Create connection
