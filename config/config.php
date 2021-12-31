@@ -3,7 +3,6 @@
     $username = "bcc77e1841a73a";
     $password = "dd32e024";
     $database = "heroku_7fce67cb249adf3";
-    $port = 3306;
 
     /*
      * fetch CONFIG VAR VALUES from heroku server and get the config values
@@ -17,7 +16,7 @@
      */
 
     // Create connection
-    $conn = new mysqli($servername, $username, $password, $database, $port);
+    $conn = new mysqli($servername, $username, $password, $database);
 
     // Check connection
     if ($conn->connect_error) {
