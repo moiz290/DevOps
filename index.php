@@ -1,5 +1,5 @@
 <?php
-    echo "hi";
+    require "config/config.php";
 ?>
     
 <?php
