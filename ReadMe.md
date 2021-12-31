@@ -33,10 +33,10 @@ PHP my admin: ( http://185.27.134.10/db_structure.php?db=epiz_30686719_devops ) 
 ## Phpmpadmin 
 ( http://185.27.134.10/db_structure.php?db=epiz_30686719_devops )
 ## credential
-1. Server: ( sql113.epizy.com )
-2. Name: epiz_30686719_devops
-3. Username: epiz_30686719
-4. Password: 2aAehRPc77r21E
+1. Server: us-cdbr-east-05.cleardb.net 
+2. Database Name: heroku_7fce67cb249adf3
+3. Username: bcc77e1841a73a
+4. Password: dd32e024
 5. Port number: 3306
 
 # FRONTEND TO DO LIST: 
